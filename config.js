@@ -59,21 +59,21 @@ global.botname = 'XLICON-V2'
 global.premium = 'true'
 global.packname = 'XLICON TEAM' 
 global.author = '@XLICON-V2' 
-global.menuvid = 'https://telegra.ph/file/325630f66abc968eda8e2.mp4'
+global.menuvid = 'https://telegra.ph/file/1c106733d57945e1a438e.mp4'
 global.igfg = '▢✓ Follow My channel\nhttps://whatsapp.com/channel/0029VaE8GbCDzgTILE7OtC3e\n' 
-global.dygp = 'https://chat.whatsapp.com/BfH0KLkICn2BjmGFMRcGMW'
-global.fgsc = 'https://github.com/salmanytofficial/XLICON-V2-MD' 
+global.dygp = 'https://chat.whatsapp.com/FsV6PoSZxoD0y88CvhiYyi'
+global.fgsc = 'https://github.com/TD-demon/XLICON-V2-MD' 
 global.fgyt = 'https://youtube.com/@s4salmanyt'
 global.fgpyp = 'https://youtube.com/@s4salmanyt'
-global.fglog = 'XLICON.jpg' 
-global.thumb = fs.readFileSync('./XLICON.jpg')
+global.fglog = 'TBOY™.jpg' 
+global.thumb = fs.readFileSync('./TBOY™.jpg')
 
 
-global.wait = '*🕣 _XLICON IS LOADIND..._*\n*▰▰▰▱▱▱▱▱⭐*'
-global.rwait = '⌛'
-global.dmoji = '🤭'
+global.wait = '*🕣 _TBOY™ IS LOADIND..._*\n*▰▰▰▱▱▱▱▱⭐*'
+global.rwait = '💀'
+global.dmoji = '😌'
 global.done = '✔️'
-global.error = '❌' 
+global.error = '☠️' 
 global.xmoji = '🔥' 
 
 global.multiplier = 69 
